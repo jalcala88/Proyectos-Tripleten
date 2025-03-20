@@ -9,8 +9,3 @@ El objetivo principal fue aprender a trabajar en un entorno guiado, comprendiend
 ## Habilidades Adquiridas
 
 * **Python:** Desarrollo de habilidades básicas en Python para resolver las pruebas.
-
-## Captura de Pantalla
-
-![Descripción de la imagen aquí](./images/captura_de_pantalla.png)  
-
