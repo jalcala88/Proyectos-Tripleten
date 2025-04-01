@@ -1,19 +1,6 @@
 # Sprint 11: Aprendizaje automático en negocios
 "Crear un modelo para predecir el volumen de reservas en pozos nuevos y ayudar a elegir la región con el mayor margen de beneficio donde tendre que analizar los beneficios y riesgos ptenciales.
 
-## Skills:
-
-<div align='center'>
-<img width="68" alt="Procesamiento de datos" src="https://github.com/user-attachments/assets/5dfd783c-63c2-476b-8fd4-8f7ac0e895fd">
-<img width="68" alt="Analisis exploratorio" src="https://github.com/user-attachments/assets/09f8043c-a4c8-48f3-afe6-6b0c7914d420">
-</div>
-<div align='center'>
-<img width="68" alt="Fundamentos de ML" src="https://github.com/user-attachments/assets/2d34d3a0-615e-4f7b-892c-d81d7f2a849c">
-
-<img width="64" alt="Modelos de regresión" src="https://github.com/user-attachments/assets/8a8bd99b-fb3d-4624-97b8-2e4661e84fec">
-
-</div>
-
 # Descripción del proyecto
 Trabajas en la compañía de extracción de petróleo OilyGiant. Tu tarea es encontrar los mejores lugares donde abrir 200 pozos nuevos de petróleo.
 
