@@ -1,7 +1,5 @@
-# Proyecto del sprint 10: Aprendizaje automático en negocios
-"Crear un modelo para predecir el volumen de reservas en los nuevos pozos y aportar recomendaciones para una compañía minera."
-
-Tras haber explorado las metricas de negocios, este proyecto busca relacionar los resultados de un modelo de regresión lineal con dichas metricas, permitiendo identificar las mejores estrategias para una compañia minera.
+# Sprint 11: Aprendizaje automático en negocios
+"Crear un modelo para predecir el volumen de reservas en pozos nuevos y ayudar a elegir la región con el mayor margen de beneficio donde tendre que analizar los beneficios y riesgos ptenciales.
 
 ## Skills:
 
