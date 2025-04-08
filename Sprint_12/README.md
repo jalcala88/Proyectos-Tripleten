@@ -52,7 +52,7 @@ Tienes a tu disposición los datos en bruto que solamente fueron descargados del
 
 Utiliza estas fórmulas para las métricas de evaluación:
 
-![Formula](formula.png)
+![Formula](smape.jpg)
 
 
 
