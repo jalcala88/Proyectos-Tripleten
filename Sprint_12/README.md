@@ -26,10 +26,10 @@ Tienes a tu disposición los datos en bruto que solamente fueron descargados del
   1. Abre los archivos y examina los datos.
 
   Ruta de acceso a los archivos:
+  - /datasets/gold_recovery_train.csv
+  - /datasets/gold_recovery_test.csv
+  - /datasets/gold_recovery_full.csv
 
-  /datasets/gold_recovery_train.csv
-  /datasets/gold_recovery_test.csv
-  /datasets/gold_recovery_full.csv
   2. Comprueba que el cálculo de la recuperación sea correcto. Calcula la recuperación de la característica rougher.output.recovery mediante el conjunto de entrenamiento. Encuentra el EAM entre tus cálculos y los valores de la característica. Facilita los resultados.
 
   3. Analiza las características no disponibles en el conjunto de prueba. ¿Cuáles son estos parámetros? ¿Cuál es su tipo?
@@ -51,7 +51,9 @@ Tienes a tu disposición los datos en bruto que solamente fueron descargados del
   2. Entrena diferentes modelos. Evalúalos aplicando la validación cruzada. Elige el mejor modelo y pruébalo utilizando la muestra de prueba. Facilita los resultados.
 
 Utiliza estas fórmulas para las métricas de evaluación:
-  <img src="smape_final.png" alt="smape final">
-  
+
+![alt text](image.png)
+
+![alt text](image-1.png)
 
 
