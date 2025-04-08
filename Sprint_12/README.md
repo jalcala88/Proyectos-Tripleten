@@ -52,8 +52,8 @@ Tienes a tu disposición los datos en bruto que solamente fueron descargados del
 
 Utiliza estas fórmulas para las métricas de evaluación:
 
-![alt text](image.png)
+![Imagen principal](image.png)
 
-![alt text](image-1.png)
+![Imagen uno](image-1.png)
 
 
