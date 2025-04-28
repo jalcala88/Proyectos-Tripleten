@@ -12,7 +12,7 @@ Tambien se hacen analisís analiticos del funcionamiento de la ofuscación.
 - Se evidencia el efecto de distintas metricas en el algoritmo KNN
 - Se creó un modelo de regresión lineal para determinar los beneficiós resultantes del seguro.
   - se demostró como el escalado de datos no tiene influencia en la regresión lineal.
-- -Se demostró de forma practica y analitica, como una ofuscación de datos a través de una matriz aleatoria $P$, no afecta en ningun sentido practico las predicciónes de un modelo de regresión lineal y que la ofuscación de deshace con el uso de la matriz llave $P^{-1}$
+- Se demostró de forma practica y analitica, como una ofuscación de datos a través de una matriz aleatoria $P$, no afecta en ningun sentido practico las predicciónes de un modelo de regresión lineal y que la ofuscación de deshace con el uso de la matriz llave $P^{-1}$
 
 ## Skills:
 <div align='center'>
